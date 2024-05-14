@@ -14,7 +14,7 @@ In this project we are going to automate some linux tasks using python
 - after this create directory
   - root@scriptbox:~# mkdir /opt/pyscripts
   - root@scriptbox:~# cd /opt/pyscripts
-- now time to add users, groups, permissions using python scripts.
+- now time to add users, groups, permissions using python scripts by importing os module.
   - root@scriptbox:/opt/pyscripts# vim ostasks.py
 - To make our script excutable   
   - root@scriptbox:/opt/pyscripts# chmod +x ostasks.py
