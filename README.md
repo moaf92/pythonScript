@@ -18,4 +18,4 @@ In this project we are going to automate some linux tasks using python
   - root@scriptbox:/opt/pyscripts# vim ostasks.py
 - To make our script excutable   
   - root@scriptbox:/opt/pyscripts# chmod +x ostasks.py
-  ...................................................
+
